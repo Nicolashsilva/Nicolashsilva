@@ -14,7 +14,7 @@ At the age of 20, I'm eager to contribute and learn in a real-world setting.
 - Networking with fellow developers and tech enthusiasts.
 
 📫 **How to Reach Me:**
-- Feel free to reach out via email at [gmail](mailto:nicolashenriquesilva00@gmail.com).
+- Feel free to reach out via email at [nicolashenriquesilva00@gmail.com](mailto:nicolashenriquesilva00@gmail.com).
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/nicolas-henrique-silva/).
 
 Let's connect and create something amazing together!
