@@ -9,7 +9,7 @@ At the age of 20, I'm eager to contribute and learn in a real-world setting.
 - Exploring advanced web development techniques.
 - Diving deeper into cloud computing and services.
 
-https://github.com/LucasSousa353/provadswa
+
 💼 **Looking for:**
 - Collaborative projects and internships to enhance my skills.
 - Networking with fellow developers and tech enthusiasts.
@@ -17,7 +17,6 @@ https://github.com/LucasSousa353/provadswa
 📫 **How to Reach Me:**
 - Feel free to reach out via email at [nicolashenriquesilva00@gmail.com](mailto:nicolashenriquesilva00@gmail.com).
 
-- https://github.com/LucasSousa353/provadswa
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/nicolas-henrique-silva/).
 
 Let's connect and create something amazing together!
